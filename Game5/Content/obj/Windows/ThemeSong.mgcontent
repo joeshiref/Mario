@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Imp. Files/Joe/Projects/Mario/Game5/Content/ThemeSong.mp3</SourceFile>
+  <SourceTime>2017-04-22T13:09:03.6656565+02:00</SourceTime>
+  <DestFile>E:/Imp. Files/Joe/Projects/Mario/Game5/Content/bin/Windows/ThemeSong.xnb</DestFile>
+  <DestTime>2017-12-04T19:11:35.0907522+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T17:05:36+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T17:05:36+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/Imp. Files/Joe/Projects/Mario/Game5/Content/bin/Windows/ThemeSong.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

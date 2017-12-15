@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Imp. Files/Joe/Projects/Mario/Game5/Content/BrickSmash.wav</SourceFile>
+  <SourceTime>2017-04-22T16:33:12.0154295+02:00</SourceTime>
+  <DestFile>E:/Imp. Files/Joe/Projects/Mario/Game5/Content/bin/Windows/BrickSmash.xnb</DestFile>
+  <DestTime>2017-12-04T19:11:36.887729+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T17:05:36+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T17:05:36+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

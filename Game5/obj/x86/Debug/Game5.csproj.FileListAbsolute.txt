@@ -1,0 +1,322 @@
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Alive.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BackGround1.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BackGround2.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BigJumpLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BigJumpRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BigStandLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BigStandRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BigWalkLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BigWalkRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Brick1.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Brick2.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Brick3.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Brick4.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Cloud1.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Cloud2.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Dead.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\DestroyedBrick.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\DestroyedBrick1.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\DestroyedBrick2.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\DuckLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\DuckReviving.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\DuckRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\DuckSteady.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\FireFlower.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\FireJumpLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\FireJumpRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\FireStandLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\FireStandRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\FireWalkLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\FireWalkRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Grass1.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Grass2.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Grass3.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Grass4.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\GumbaAlive.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\GumbaDead.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Lives0.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Lives1.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Lives2.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Lives3.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Lives4.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Lives5.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\MarioDead.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Mushroom.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Pipe1.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Plant.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\SmallJumpLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\SmallJumpRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\SmallStandLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\SmallStandRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\SmallWalkLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\SmallWalkRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\SpecialBrick.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\SpinyLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\SpinyRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Stairs.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Game5.exe
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Game5.pdb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\obj\x86\Debug\Game5.exe
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\obj\x86\Debug\Game5.pdb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\obj\x86\Debug\Game5.csprojResolveAssemblyReference.cache
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\MyFont.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Ball.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BillBlaster.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BrickSmash.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BulletDown.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BulletLeft.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\BulletRight.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Bump.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\FireBall.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\JumpSmall.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\JumpSuper.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Kick.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\mariodie.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\MarioLives.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\pipe.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\PowerUp.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\PowerUpAppears.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Shrink.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\ThemeSong.wma
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\ThemeSong.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\YouWin.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Coins.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\count coins.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Coin.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Castle.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\Escalator.xnb
+C:\Users\Shalaby\Documents\Visual Studio 2015\Projects\Game5\Game5\bin\Windows\x86\Debug\Content\FLAG.xnb
+C:\Users\Joe\Desktop\Game5\Game5\obj\x86\Debug\Game5.exe
+C:\Users\Joe\Desktop\Game5\Game5\obj\x86\Debug\Game5.pdb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\MyFont.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Alive.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BackGround1.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BackGround2.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Ball.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BigJumpLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BigJumpRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BigStandLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BigStandRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BigWalkLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BigWalkRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BillBlaster.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Brick1.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Brick2.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Brick3.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Brick4.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BrickSmash.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BulletDown.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BulletLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\BulletRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Bump.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Castle.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Cloud1.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Cloud2.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Coin.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Coins.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\count coins.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Dead.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\DestroyedBrick.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\DestroyedBrick1.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\DestroyedBrick2.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\DuckLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\DuckReviving.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\DuckRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\DuckSteady.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Escalator.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\FireBall.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\FireFlower.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\FireJumpLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\FireJumpRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\FireStandLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\FireStandRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\FireWalkLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\FireWalkRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\FLAG.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Grass1.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Grass2.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Grass3.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Grass4.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\GumbaAlive.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\GumbaDead.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\JumpSmall.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\JumpSuper.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Kick.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Lives0.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Lives1.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Lives2.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Lives3.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Lives4.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Lives5.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\MarioDead.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\mariodie.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\MarioLives.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Mushroom.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\pipe.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Pipe1.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Plant.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\PowerUp.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\PowerUpAppears.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\Shrink.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\SmallJumpLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\SmallJumpRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\SmallStandLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\SmallStandRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\SmallWalkLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\SmallWalkRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\SpecialBrick.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\SpinyLeft.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\SpinyRight.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\stairs.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\ThemeSong.wma
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\ThemeSong.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Content\YouWin.xnb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Game5.exe
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Game5.pdb
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Lidgren.Network.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\Lidgren.Network.xml
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Joe\Desktop\Game5\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Joe\Desktop\Game5\Game5\obj\x86\Debug\Game5.csprojResolveAssemblyReference.cache
+E:\Imp. Files\Joe\Projects\Mario\Game5\obj\x86\Debug\Game5.exe
+E:\Imp. Files\Joe\Projects\Mario\Game5\obj\x86\Debug\Game5.pdb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\MyFont.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Alive.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BackGround1.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BackGround2.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Ball.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BigJumpLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BigJumpRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BigStandLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BigStandRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BigWalkLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BigWalkRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BillBlaster.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Brick1.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Brick2.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Brick3.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Brick4.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BrickSmash.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BulletDown.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BulletLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\BulletRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Bump.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Castle.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Cloud1.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Cloud2.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Coin.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Coins.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\count coins.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Dead.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\DestroyedBrick.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\DestroyedBrick1.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\DestroyedBrick2.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\DuckLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\DuckReviving.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\DuckRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\DuckSteady.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Escalator.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\FireBall.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\FireFlower.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\FireJumpLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\FireJumpRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\FireStandLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\FireStandRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\FireWalkLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\FireWalkRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\FLAG.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Grass1.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Grass2.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Grass3.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Grass4.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\GumbaAlive.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\GumbaDead.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\JumpSmall.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\JumpSuper.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Kick.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Lives0.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Lives1.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Lives2.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Lives3.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Lives4.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Lives5.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\MarioDead.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\mariodie.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\MarioLives.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Mushroom.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\pipe.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Pipe1.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Plant.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\PowerUp.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\PowerUpAppears.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\Shrink.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\SmallJumpLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\SmallJumpRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\SmallStandLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\SmallStandRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\SmallWalkLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\SmallWalkRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\SpecialBrick.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\SpinyLeft.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\SpinyRight.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\stairs.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\ThemeSong.wma
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\ThemeSong.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Content\YouWin.xnb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Game5.exe
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\Game5.pdb
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.dll
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.xml
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Imp. Files\Joe\Projects\Mario\Game5\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Imp. Files\Joe\Projects\Mario\Game5\obj\x86\Debug\Game5.csprojResolveAssemblyReference.cache
